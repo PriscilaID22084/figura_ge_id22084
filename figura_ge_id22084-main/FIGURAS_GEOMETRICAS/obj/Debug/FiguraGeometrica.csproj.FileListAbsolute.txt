@@ -1,0 +1,3 @@
+C:\Users\Oscar\Desktop\figura_ge_id22084-main\FIGURAS_GEOMETRICAS\obj\Debug\FiguraGeometrica.csproj.AssemblyReference.cache
+C:\Users\Oscar\Desktop\figura_ge_id22084-main\FIGURAS_GEOMETRICAS\obj\Debug\FiguraGeometrica.Form1.resources
+C:\Users\Oscar\Desktop\figura_ge_id22084-main\FIGURAS_GEOMETRICAS\obj\Debug\FiguraGeometrica.csproj.GenerateResource.cache
